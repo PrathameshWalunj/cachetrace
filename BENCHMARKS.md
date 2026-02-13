@@ -118,7 +118,7 @@ This level of detail is helpful for:
 
 ## Reproducing These Results
 
-The full validation harness is public in the `tracebugtest` repository. Use that repo to reproduce synthetic and real-world runs end-to-end.
+The full validation harness is public in the [tracebugtest](https://github.com/PrathameshWalunj/tracebugtest) repository. Use that repo to reproduce synthetic and real-world runs end-to-end.
 
 ### Quick Validation
 
