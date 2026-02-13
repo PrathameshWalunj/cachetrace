@@ -1,0 +1,19 @@
+
+*.o
+cachetrace
+
+# Editor/IDE
+*.swp
+*.swo
+*~
+.vscode/
+
+
+
+.DS_Store
+Thumbs.db
+
+
+
+
+dev-notes/
